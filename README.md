@@ -10,7 +10,7 @@ Running:
 \
 `npm run build` - Production
 \
-`npm run preview` - Run after production (This is static)
+Copy `build` folder to your webroot directory
 
 ### Watch this video:
 https://www.youtube.com/watch?v=lHZwlzOUOZ4
